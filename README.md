@@ -1,3 +1,1 @@
 # smart-farming-dashboard
-
-test
